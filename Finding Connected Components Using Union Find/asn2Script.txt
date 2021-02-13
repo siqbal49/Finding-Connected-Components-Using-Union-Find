@@ -1,0 +1,209 @@
+Script started on 2020-02-26 23:00:53-05:00 [TERM="xterm" TTY="/dev/pts/17" COLUMNS="157" LINES="44"]
+bash-5.0$ who am i
+siqbal49 pts/2        2020-02-26 23:00
+bash-5.0$ pwd
+/home/siqbal49/cs3340/asn2
+bash-5.0$ date
+Wed 26 Feb 2020 11:01:49 PM EST
+bash-5.0$ ./asn2 infile
+Note: uandf.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Output 1 
+ ------------------- 
+
++++++++++                                                           +++
++++++++++                                                           +++
+++++++++                                                            +++
++++++++                                                            ++++
+++++++   ++                                                        ++++
++++++   ++                                                         ++++
+ +++   ++                                                         +++++
+ ++   ++                  +                                    +  +++++
+ ++  ++           + ++++                                     ++  ++++++
+ +++++    +         ++++     ++++++++                      +++   ++++++
+ +++++   +         ++++++ ++++++++++                    +++++   +++++++
+  +++             + +++++++++++++++                   +++++    ++++++++
+  ++   +       + +++++++++++++++++                    +++     +++++++++
+ +++  ++       ++++++++++++++++++                  ++        ++++++++++
+ +   +++ +  +++++++++++++++++++                  +++        +++++++++++
+ +  ++ +++ ++++++++++++++++++ +                 +++        ++++++++++++
+ +  +  ++  ++++++++++++++++++ +                 ++++      +++++++++++++
+ ++++ ++ +++++++++++++++++++++                   ++++   ++++++++++++++ 
+ +++++  ++++++++++++++++++++++                   ++++   ++++++++++++++ 
+++++++ +++++++++++++++++++++                     ++++   +++++++++++++  
+++++++++++++++++++++++++++                        ++++  +++++++++++++  
++++  ++++++++++++++++++++                         ++++  ++++++++++++   
++++  ++++++++++++++++ ++                          ++++  ++++++++++++   
++   +++++++++++++++++++                           +++++ ++++++++++++   
++   +++++++++++++++++++                           +++++ +++++++++++    
+  +++++++++++++++++++ +        +                  +++++ +++++++++++    
+  ++++++++++++++++++++        +++++               +++++ +++++++++++    
+ +++++++++++++++++++             ++++           +++++++  +++++++++     
+++++++++++++++++++++       +++++++++++        +++++++++  +++++++++     
++++++++++++++++++++       ++++++++++ +       +++++++++++ +++++++++     
+++++++++++++++++++       +++++++ +++++      ++++++++++++ ++++++++      
+++++++++++++++++++       +++++++  +++++    +++++ +++++++ ++++++++      
++++++++++++++++++       +++++++    ++++    + ++  +++++++ ++++++++      
+++++++++++++++++       +   +++      +++         ++++++++ +++++++       
++++++  ++++++++++     +      ++     +++       ++++++++++ +++++++       
+++++++ +++++++++    +++               ++       +++++++++ +++++++       
+++++++ ++++++++    ++++               ++        ++++++++ +++++++       
++++++ ++++++++     ++++               ++        ++++++++  +++++        
++++++++ +++++++   +++++                +        ++++++++  +++++        
++++++++  ++++    ++++++                +        ++++++++  +++++        
+++++++++++++++   ++++++               ++         +++++++  ++++         
++++++++ + ++    +++++++               ++        ++++++++  ++++         
++++++++ +++++   ++++++++              ++         +++++++  ++++         
++++++ +++++    +++++++++           ++  +        ++++++++  +++          
+++++++++++    ++++++++++           ++  ++       +++++++++  ++          
++++++ ++++   +++++++++++           +++++++      +++++++++  ++          
+++++++++++   +++++++++++             ++++      ++++++++++  ++          
++ +++++  +  +++++++++++++                      ++++++++++  +           
++++++    + +++++++++++++                       ++++++++++  +           
++++++   +  ++++++++++++++                     +++++++++++  +           
+ ++    ++ +++++++++++++++                     +++++++++++              
+++     + +++++++++++++++++    +++  +++++ +++ +++++++++++++             
+++    +  +++++++++++++++++    ++++++++++ ++  +++++++++++++             
++    +  +++++++++++++++++++    +++++        ++++++++++++++             
++      ++++++++++++++++++++      ++++       ++++++++++++++             
+      +++++++++++++++++++++       ++++++   +++++++++++++++             
+++   +++++++++++++++++++++++               +++++++++++++++             
+++   +++++++++++++++++++++++              ++++++++++++++++             
++++ +++++++++++++++++++++++++             ++++++++++++++++             
+ +++++++++++++++++++++++++++++            ++++++++++++++++             
+    +++++++++++++++++++++++++++          +++++++++++++++++             
+  +  ++++++++++++++++++++++++             ++++++++++++++++  ++         
++ ++  ++++++++++++++++++++++                 +++++++++++++    +++++    
+++++   +++++++++++++++++++++++                ++++++++++++      +++++++
+++   + ++++++++++++++++++++++                   ++++++++++        +++++
+++   ++ +++++++++++++++++++++                    +++++++++          +++
++    + + ++++++++++++++++++++                      ++++++              
+++   + +++++++++++++++++++++                       ++++++              
+++   ++ +++++++++++++++++++                         +++++              
++++   ++ ++++++++++++++++++                          ++++              
++++   ++ +++++++++++++++++++                         ++++              
+
+
+Output 2 
+ ------------------- 
+
+ooooooooo                                                           uuu
+ooooooooo                                                           uuu
+oooooooo                                                            uuu
+ooooooo                                                            uuuu
+oooooo   oo                                                        uuuu
+ooooo   oo                                                         uuuu
+ ooo   oo                                                         uuuuu
+ oo   oo                  t                                    s  uuuuu
+ oo  oo           r oooo                                     qq  uuuuuu
+ ooooo    p         oooo     oooooooo                      qqq   uuuuuu
+ ooooo   n         oooooo oooooooooo                    qqqqq   uuuuuuu
+  ooo             o ooooooooooooooo                   qqqqq    uuuuuuuu
+  oo   o       o ooooooooooooooooo                    qqq     uuuuuuuuu
+ ooo  oo       oooooooooooooooooo                  mm        uuuuuuuuuu
+ o   ooo o  ooooooooooooooooooo                  mmm        uuuuuuuuuuu
+ o  oo ooo oooooooooooooooooo o                 mmm        uuuuuuuuuuuu
+ o  o  oo  oooooooooooooooooo o                 mmmm      uuuuuuuuuuuuu
+ oooo oo ooooooooooooooooooooo                   mmmm   uuuuuuuuuuuuuu 
+ ooooo  oooooooooooooooooooooo                   mmmm   uuuuuuuuuuuuuu 
+oooooo ooooooooooooooooooooo                     mmmm   uuuuuuuuuuuuu  
+oooooooooooooooooooooooooo                        mmmm  uuuuuuuuuuuuu  
+ooo  oooooooooooooooooooo                         mmmm  uuuuuuuuuuuu   
+ooo  oooooooooooooooo oo                          mmmm  uuuuuuuuuuuu   
+o   ooooooooooooooooooo                           mmmmm uuuuuuuuuuuu   
+o   ooooooooooooooooooo                           mmmmm uuuuuuuuuuu    
+  ooooooooooooooooooo o        l                  mmmmm uuuuuuuuuuu    
+  oooooooooooooooooooo        lllll               mmmmm uuuuuuuuuuu    
+ ooooooooooooooooooo             llll           mmmmmmm  uuuuuuuuu     
+oooooooooooooooooooo       lllllllllll        mmmmmmmmm  uuuuuuuuu     
+ooooooooooooooooooo       llllllllll l       mmmmmmmmmmm uuuuuuuuu     
+oooooooooooooooooo       lllllll lllll      mmmmmmmmmmmm uuuuuuuu      
+oooooooooooooooooo       lllllll  lllll    mmmmm mmmmmmm uuuuuuuu      
+ooooooooooooooooo       lllllll    llll    m mm  mmmmmmm uuuuuuuu      
+oooooooooooooooo       k   lll      lll         mmmmmmmm uuuuuuu       
+ooooo  oooooooooo     j      ll     lll       mmmmmmmmmm uuuuuuu       
+oooooo ooooooooo    jjj               ll       mmmmmmmmm uuuuuuu       
+oooooo oooooooo    jjjj               ll        mmmmmmmm uuuuuuu       
+ooooo oooooooo     jjjj               ll        mmmmmmmm  uuuuu        
+ooooooo ooooooo   jjjjj                l        mmmmmmmm  uuuuu        
+ooooooo  oooo    jjjjjj                l        mmmmmmmm  uuuuu        
+oooooooooooooo   jjjjjj               ll         mmmmmmm  uuuu         
+ooooooo o oo    jjjjjjj               ll        mmmmmmmm  uuuu         
+ooooooo ooooo   jjjjjjjj              ll         mmmmmmm  uuuu         
+ooooo ooooo    jjjjjjjjj           ll  l        mmmmmmmm  uuu          
+oooooooooo    jjjjjjjjjj           ll  ll       mmmmmmmmm  uu          
+ooooo oooo   jjjjjjjjjjj           lllllll      mmmmmmmmm  uu          
+oooooooooo   jjjjjjjjjjj             llll      mmmmmmmmmm  uu          
+o ooooo  o  jjjjjjjjjjjjj                      mmmmmmmmmm  u           
+ooooo    o jjjjjjjjjjjjj                       mmmmmmmmmm  u           
+ooooo   i  jjjjjjjjjjjjjj                     mmmmmmmmmmm  u           
+ oo    ii jjjjjjjjjjjjjjj                     mmmmmmmmmmm              
+oo     i jjjjjjjjjjjjjjjjj    hhh  hhhhh ggg mmmmmmmmmmmmm             
+oo    f  jjjjjjjjjjjjjjjjj    hhhhhhhhhh gg  mmmmmmmmmmmmm             
+o    e  jjjjjjjjjjjjjjjjjjj    hhhhh        mmmmmmmmmmmmmm             
+o      jjjjjjjjjjjjjjjjjjjj      hhhh       mmmmmmmmmmmmmm             
+      jjjjjjjjjjjjjjjjjjjjj       hhhhhh   mmmmmmmmmmmmmmm             
+jj   jjjjjjjjjjjjjjjjjjjjjjj               mmmmmmmmmmmmmmm             
+jj   jjjjjjjjjjjjjjjjjjjjjjj              mmmmmmmmmmmmmmmm             
+jjj jjjjjjjjjjjjjjjjjjjjjjjjj             mmmmmmmmmmmmmmmm             
+ jjjjjjjjjjjjjjjjjjjjjjjjjjjjj            mmmmmmmmmmmmmmmm             
+    jjjjjjjjjjjjjjjjjjjjjjjjjjj          mmmmmmmmmmmmmmmmm             
+  d  jjjjjjjjjjjjjjjjjjjjjjjj             mmmmmmmmmmmmmmmm  cc         
+d dd  jjjjjjjjjjjjjjjjjjjjjj                 mmmmmmmmmmmmm    bbbbb    
+dddd   jjjjjjjjjjjjjjjjjjjjjjj                mmmmmmmmmmmm      bbbbbbb
+dd   a jjjjjjjjjjjjjjjjjjjjjj                   mmmmmmmmmm        bbbbb
+dd   aa jjjjjjjjjjjjjjjjjjjjj                    mmmmmmmmm          bbb
+d    a j jjjjjjjjjjjjjjjjjjjj                      mmmmmm              
+dd   a jjjjjjjjjjjjjjjjjjjjj                       mmmmmm              
+dd   aa jjjjjjjjjjjjjjjjjjj                         mmmmm              
+ddd   aa jjjjjjjjjjjjjjjjjj                          mmmm              
+ddd   aa jjjjjjjjjjjjjjjjjjj                         mmmm              
+
+
+Output 3 
+ ------------------- 
+
+Component Label: e size: 1
+Component Label: f size: 1
+Component Label: k size: 1
+Component Label: n size: 1
+Component Label: p size: 1
+Component Label: r size: 1
+Component Label: s size: 1
+Component Label: t size: 1
+Component Label: c size: 2
+Component Label: i size: 4
+Component Label: g size: 5
+Component Label: a size: 11
+Component Label: q size: 18
+Component Label: b size: 20
+Component Label: d size: 23
+Component Label: h size: 33
+Component Label: l size: 110
+Component Label: u size: 354
+Component Label: m size: 510
+Component Label: j size: 578
+Component Label: o size: 779
+
+
+Output 4 
+ ------------------- 
+
+Component Label: i size: 4
+Component Label: g size: 5
+Component Label: a size: 11
+Component Label: q size: 18
+Component Label: b size: 20
+Component Label: d size: 23
+Component Label: h size: 33
+Component Label: l size: 110
+Component Label: u size: 354
+Component Label: m size: 510
+Component Label: j size: 578
+Component Label: o size: 779
+
+
+bash-5.0$ exit
+exit
+
+Script done on 2020-02-26 23:02:31-05:00 [COMMAND_EXIT_CODE="0"]
